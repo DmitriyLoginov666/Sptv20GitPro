@@ -15,7 +15,9 @@ public class Sptv20GitPro {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-	// TODO code application logic here
+	System.out.println("Версия 1");
+	System.out.println("Версия 2");
+	
     }
     
 }
